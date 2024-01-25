@@ -6,8 +6,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam pretium lectus 
 
 **how to play call of duty**
 
-*Call Of Duty*
+_Call Of Duty_
 
 - Call of Duty
 - Valorant
 - Fortnite
+  [How to play call of duty](https://www.wikihow.com/Play-Call-of-Duty)
