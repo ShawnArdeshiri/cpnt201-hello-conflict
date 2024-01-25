@@ -7,3 +7,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam pretium lectus 
 **how to play call of duty**
 
 *Call Of Duty*
+
+- Call of Duty
+- Valorant
+- Fortnite
